@@ -3,7 +3,7 @@ layout: cv
 title: Hargun Kaur's CV
 ---
 # Hargun kaur 
-Physicist, Mathematician, Cambridge professor.
+SDSU 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
